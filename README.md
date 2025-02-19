@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP programming related to type juggling. The `bug.php` file contains code that showcases the incorrect comparison of different data types using loose comparison. The `bugSolution.php` file provides the corrected version with strict comparison to address the issue.
